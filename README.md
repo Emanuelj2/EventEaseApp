@@ -1,4 +1,4 @@
-# 🎉 EventEaseApp - Event Creation & Management
+# EventEaseApp - Event Creation & Management
 
 ## 📌 Overview
 **EventEaseApp** is a Blazor Server application that allows users to create, view, and manage events.  
